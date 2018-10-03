@@ -127,8 +127,10 @@ Please edit this file to add your answers to the following questions.
 What does the S stand for in HTTPS? Secure
 
 Why is HTTPS better than HTTP?
+Hyper Text Transfer Protocol Secure (HTTPS) is the secure version of HTTP, the protocol over which data is sent between your browser and the website that you are connected to. 
 
-Should all web pages use HTTPS?
+Should all web pages use HTTPS?    yes   
+
 
 
 ## Webpages
@@ -163,9 +165,11 @@ Where is a good place to look for information about HTML tags?
 
 Which version of HTML are we covering in this class? What is it's DOCTYPE tag?
 
-What is XML?
+What is XML?  
+Extensible Markup Language is a markup language that defines a set of rules for encoding documents in a format that is both human-readable and machine-readable
 
 What is XHTML?
+Extensible Hypertext Markup Language is part of the family of XML markup languages. It mirrors or extends versions of the widely used Hypertext Markup Language, the language in which Web pages are formulated
 
 
 ### 15. HTML
