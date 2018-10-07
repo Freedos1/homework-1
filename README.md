@@ -142,8 +142,7 @@ Pleaes ensure you have read chapters 1–9 (except 7) in the [HTML & CSS book](h
 
 
 ### 10. What is a webpage?
-
-*Your answer here.*
+A webpage is a document commonly written in HyperText Markup Language (HTML) that is accessible through the Internet or other network using an Internet browser
 
 
 ### 11. Webpage I like
@@ -164,6 +163,8 @@ Where is a good place to look for information about HTML tags?
 ### 14. HTML Versions
 
 Which version of HTML are we covering in this class? What is it's DOCTYPE tag?
+HTML5 
+<!DOCTYPE html>
 
 What is XML?  
 Extensible Markup Language is a markup language that defines a set of rules for encoding documents in a format that is both human-readable and machine-readable
@@ -201,13 +202,17 @@ What is one tool you can use to verify the accessibility of your websites?
 ### 19. head / body
 
 What is the `<head>` tag for?
+The <head> element is a container for all the head elements. The <head> element can include a title for the document, scripts, styles, meta information, and more. 
 
 What is the `<body>` tag for?
+The <body> element contains all the contents of an HTML document, such as text, hyperlinks, images, tables, lists, etc.
 
 
 ### 20. Head…
 
 What's the difference between `<head>`, `<header>`, and heading tags?
+The head tag is used for holding Meta information, title, links, etc. and is not displayed on the page. 
+The header tag is used within the body of the website and can be used multiple times if required, e.g. to determine the top of an article.
 
 
 ### 21. Tables
@@ -218,7 +223,7 @@ What are all the tags associated with [HTML tables](https://developer.mozilla.or
 ### 22. Non-closing tags
 
 Which tags don't have a closing pair (e.g. `<br>`)?
-
+HTML void elements are ones that do not have a required closing . The void elements or singleton tags in HTML are those tags that don't require a closing 
 
 ### 23. Links
 
@@ -228,8 +233,10 @@ How do you make a link open in a new window?
 ### 24. IFRAME
 
 What is an IFRAME?
-
+An IFrame (Inline Frame) is an HTML document embedded inside another HTML document on a website. 
 What are IFRAMEs commonly used for?
+The IFrames HTML element are often used to insert content from another source, such as an advertisement, into a Web page
+
 
 
 ## Writing Code
