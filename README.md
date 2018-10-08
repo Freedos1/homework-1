@@ -119,6 +119,7 @@ Please edit this file to add your answers to the following questions.
 * What is the port number?
 * What is the path?
 * What are the query parameters?
+
 * What is the fragment?
 
 
@@ -158,6 +159,7 @@ What's one webpage you like? Why?
 ### 13. Resources
 
 Where is a good place to look for information about HTML tags?
+W3schools
 
 
 ### 14. HTML Versions
@@ -176,27 +178,39 @@ Extensible Hypertext Markup Language is part of the family of XML markup languag
 ### 15. HTML
 
 Are web pages ASCII (plain text) files, or compiled (binary) files like an executable program?
+- Web pages are written in a particular computer language or script. Each of the content which is written in any computer understandable language rather it be high level or low level language.  it is a compiled file.
+
+- webpages can be made in multiple languages like HTML,XML,CSS,PHP,PYTHON,JAVA, ETC. Hence they are compiled files like an executable program and can be managed accordingly.
 
 Are HTML files interpreted or executed?
-
+- HTML files are always interpreted by browser itself and is managed accordingly. As you can see that it does not show any errors when it is being executed.
+-It behaves anormally when there are errors.
 
 ### 16. Browser versioning
 
 Which versions of Microsoft Internet Explorer support the `<nav>` tag?
-
+The nav tag is been supported completely by the internet Explorer 9 
 
 ### 17. HTML Validity
 
 What is one tool that can tell you if you have written valid HTML?
+HTML Validator
 
 
 ### 18. Accessibility
 
 What does "Accessibility" mean in the context of web development?
-
+Accessibility means that the site c0ntent is available and it is totally fontional as well.
 What types of people does accessibility concern?
+-Visual impairment such as blindness and poor eyesight
+-People/individuals who are hard of hearing
+-People/individuals with learning disability like dyslexia
+-People/individuals with cognitive disability like affecting memory
 
 What is one tool you can use to verify the accessibility of your websites?
+- Accessibility viewer by Pacielle Group
+- AChecker
+- Adobe Acrobat XI Pro
 
 
 ### 19. head / body
