@@ -106,21 +106,21 @@ Please edit this file to add your answers to the following questions.
 #### 7. In the following URL: `http://www.lehman.edu/academics/mathematics-computer-science/index.php`
 
 * What is the scheme/protocol? http
-* What is the host? lehman
+* What is the host? www.lehman.edu
 * What is the port number? 80
-* What is the path? academics
-* What are the query parameters?
-* What is the fragment?
+* What is the path?academics/mathematics-computer-science/index.php`
+* What are the query parameters?no query parameters
+* What is the fragment?no fragment
 
 #### 8. In the following URL: `https://en.wikipedia.org/wiki/Greek_alphabet#Glyph_variants`
 
-* What is the scheme/protocol?
-* What is the host?
-* What is the port number?
-* What is the path?
-* What are the query parameters?
+* What is the scheme/protocol?https
+* What is the host?/en.wikipedia.org
+* What is the port number?80
+* What is the path?/en.wikipedia.org
+* What are the query parameters?no query parameters
 
-* What is the fragment?
+* What is the fragment?Glyph_variants`
 
 
 ### 9. HTTPS
