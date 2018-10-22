@@ -97,7 +97,7 @@ Please edit this file to add your answers to the following questions.
 #### 6. In the following URL: `http://localhost:4000/admin?`
 
 * What is the scheme/protocol? http
-* What is the host? 
+* What is the host? loalhost
 * What is the port number? 4000
 * What is the path? admin
 * What are the query parameters? ~
@@ -148,13 +148,13 @@ A webpage is a document commonly written in HyperText Markup Language (HTML) tha
 
 ### 11. Webpage I like
 
-What's one webpage you like? Why?
+What's one webpage you like? Why? yahoo because design is good and you can change webpage color
 
 
 ### 12. Website I don’t like
 
 What's one webpage you like? Why?
-
+Teacher X Press because it's so confused
 
 ### 13. Resources
 
@@ -242,7 +242,7 @@ HTML void elements are ones that do not have a required closing . The void eleme
 ### 23. Links
 
 How do you make a link open in a new window?
-
+just add a target="_blank" attribute to your links (anchor tags). 
 
 ### 24. IFRAME
 
@@ -289,3 +289,4 @@ Class is going… too slow / just right / too fast.
 Add a link to one web development job based in NYC:
 
 What do you still need to learn to meet the requirements?
+
